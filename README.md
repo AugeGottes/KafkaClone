@@ -4,7 +4,7 @@
 
 1. Start the ZooKeeper:
     ```shell
-    python zookeeper.py --port <portnumber> --brokers <bpno1-bpno2-b3>
+    python zookeeper.py --port <portnumber> --brokers <bpno1-bpno2-bpno3>
     ```
 
 2. Start the Broker:
